@@ -1,2 +1,2 @@
 # Yisly-Link
-Yisly location based service - creating public repo
+[Yisly – Where local comes alive](https://www.yisly.com)
